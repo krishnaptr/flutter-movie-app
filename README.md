@@ -31,3 +31,9 @@ samples, guidance on mobile development, and a full API reference.
 ## Here the design reference that I'm used. Thanks for the author.
 
 1. https://www.figma.com/file/0ofRzahnHU0TczmOMd67lV/Movie-Mobile-App-UI-Design-(Community)?node-id=0%3A1
+
+## Test the app
+
+But if you want to know how the app works, you can install the app for your phone (Android only) here :
+
+1. https://drive.google.com/file/d/1t0GHvgJ-y3ZOZhy7N0hm7JjI4WZzNj56/view?usp=sharing
