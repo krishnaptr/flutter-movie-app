@@ -1,0 +1,40 @@
+name: movie_provider
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+dependencies:
+  auto_size_text: ^3.0.0
+  badges: ^2.0.3
+  cupertino_icons: ^1.0.2
+  flutter:
+    sdk: flutter
+  google_fonts: ^3.0.1
+  http: ^0.13.5
+  intl: ^0.17.0
+  provider: ^6.0.3
+  url_launcher: ^6.1.6
+  url_launcher_android: ^6.0.19
+
+dev_dependencies:
+  flutter_launcher_icons: null
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  android: true
+  image_path_ios: "assets/icons/filmku-icon.png"
+  image_path_android: "assets/icons/filmku-icon.png"
+
+flutter:
+
+  uses-material-design: true
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/google_fonts/
+    - assets/icons/
+    - assets/images/
+    - assets/images/cast/
